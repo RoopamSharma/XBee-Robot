@@ -1,0 +1,3 @@
+An arduino controlled robot.  Commands come in via a softserial serial and drive motors connected to
+an Adafruit motor shield.  Read more about the project at http://notarocketsurgeon.blogspot.com/.
+
